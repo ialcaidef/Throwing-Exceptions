@@ -14,6 +14,9 @@ Open a browser, and navigate to the following URL:
 
 if the destination, **Seattle**, came from the server.
 
+![20487D_Images](https://github.com/ialcaidef/Throwing-Exceptions/blob/master/Images/01.png)
+
+
 Induce an error in the URL by adding 0 at the end: 
 
    ```url
@@ -21,3 +24,5 @@ Induce an error in the URL by adding 0 at the end:
    ```
 
 Check if the **HTTP ERROR 404 (Not Found)** error code appears.
+
+![20487D_Images](https://github.com/ialcaidef/Throwing-Exceptions/blob/master/Images/02.png)
